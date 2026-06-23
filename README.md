@@ -66,7 +66,7 @@ Result: `installer\VideoDownloader-Setup.exe`
 ```
 .
 ├── downloader.py                 # Entry point
-├── build (5).bat                 # Build .exe (Nuitka)
+├── build.bat                 # Build .exe (Nuitka)
 ├── build_installer_only.bat      # Build installer (Inno Setup)
 ├── downloader-installer.iss      # Inno Setup script
 ├── icon.ico                      # Application icon
